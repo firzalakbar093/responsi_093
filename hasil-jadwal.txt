@@ -1,0 +1,12 @@
+id:2 =================
+Mata Kuliah: alpor
+Dosen: dasd
+Waktu: 231321f
+Kebutuhan Ruang: 231321f
+ÿ
+id:5 =================
+Mata Kuliah: ALPRO
+Dosen: LSADPOKID
+Waktu: FFE
+Kebutuhan Ruang: FFE
+ÿ
